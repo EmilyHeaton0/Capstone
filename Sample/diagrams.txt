@@ -1,0 +1,2 @@
+America|A map of the United States.|C:\Users\eahea\Desktop\ChalkBoard\Sample\Images\usa.png
+Europe|A map of Europe.|C:\Users\eahea\Desktop\ChalkBoard\Sample\Images\europe.jpg
